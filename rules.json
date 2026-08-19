@@ -1,0 +1,22 @@
+{
+  "version": 5,
+  "_": "Rregullat e përputhjes së këngëve. Telefonat e lexojnë këtë skedar pranë APK-së dhe bien te vlerat e tyre të brendshme për çdo gjë që mungon ose është e pavlefshme. Ndryshimi këtu = një shtytje, jo një APK i ri.",
+  "junk": "\\b(remix|rmx|cover|karaoke|spe+d ?-? ?up|slowed|reverb|nightcore|bass ?boosted|8d|mashup|edit|bootleg|instrumental|live|acapella|a capella|snippet|teaser|preview|tiktok|flip)\\b",
+  "coverFloor": 0.6,
+  "durTolerance": 15,
+  "minSecs": 90,
+  "maxSecs": 900,
+  "letters": {},
+  "sources": {
+    "soundcloud": true,
+    "dailymotion": true,
+    "alternate": true,
+    "risiks": true,
+    "audiocom": true,
+    "mp3pm": true,
+    "fma": true,
+    "pixabay": true
+  },
+  "preferV6": false,
+  "mediaV6": false
+}
