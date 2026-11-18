@@ -1,0 +1,10 @@
+{
+  "code": 108,
+  "name": "1.0.107",
+  "notes": "• Kibla: ekrani më i qartë; shpjegimet janë te ikona (i), bashkë me fjalën e dijetarëve për shmangien e vogël.\n• Kibla: kur busulla kalibrohet, e thotë dhe dritarja mbyllet vetë.\n• Përmirësime të përgjithshme.",
+  "rich": "- Kibla: ekrani më i qartë; shpjegimet janë te ikona (i), bashkë me fjalën e dijetarëve për shmangien e vogël.\n- Kibla: kur busulla kalibrohet, e thotë dhe dritarja mbyllet vetë.\n- Përmirësime të përgjithshme.",
+  "date": "2026-11-18T09:59:49Z",
+  "size": 10161024,
+  "sha256": "1cd7a0131a5191738e34bdb512ec90984a2ebf83caa109fec366e22830f0d9df",
+  "url": "https://raw.githubusercontent.com/fsigner/jami-apk/main/islam/jami-islam-108.apk"
+}
